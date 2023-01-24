@@ -23,4 +23,12 @@ the Nth Queen’s position in the Nth column.
 
 • The return value must be the total number of displayed solutions.
 
+to start, run:
+
+```
+$>cc ft_ten_queens_puzzle.c main_queen.c
+$>./a.out | cat -e
+
+```
+
 Need help: emaksimo@student.42yerevan.am
