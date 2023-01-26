@@ -1,4 +1,4 @@
-# The-Ten-Queens
+# The-Ten-Queens :chess_pawn:
 
 A program that displays all possible arrangements of queens on a chessboard that would contain ten columns and ten rows, without them being able to reach each other in one move.
 
